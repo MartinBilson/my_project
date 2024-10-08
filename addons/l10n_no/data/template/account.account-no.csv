@@ -1,4 +1,4 @@
-"id","code","name","account_type","tag_ids","reconcile","name@nb_NO"
+ "id","code","name","account_type","tag_ids","reconcile","name@nb_NO"
 "no_a_cash","1000","Research and development","asset_current","","False","Forskning og utvikling"
 "chart1010","1010","Research and development, self-developed","asset_current","","False","Forskning og utvikling, egenutviklet"
 "chart1020","1020","Concessions","asset_current","","False","Konsesjoner"
